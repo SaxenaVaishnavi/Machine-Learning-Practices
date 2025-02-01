@@ -81,7 +81,7 @@ sklearn API can be arranged in the following manner:
   7. [`sklearn.multioutput`](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.multioutput) implements multioutput classification and regression.
  
 ### Unsupervised Models
- - [`**CLUSTERING**`](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.cluster) implements popular unsupervised clustering algorithms.
+ - [`CLUSTERING`](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.cluster) implements popular unsupervised clustering algorithms.
 
 ### Model Evaluation
 * [`sklearn.metrics`](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics) implements several different metrics for model evaluation.
